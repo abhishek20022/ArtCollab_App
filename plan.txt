@@ -1,0 +1,37 @@
+create step of repo  - 5min
+create assign to IA - 3min
+create branch - 5min
+create request -10min
+and plan about my  project -: 
+Landing Page -10
+
+Intro to the platform
+
+Buttons like "Join Now", "Explore Projects"
+
+Responsive layout
+
+Dark mode toggle 5min
+Profile Page 10min
+
+Display user info (name, bio, skills, profile pic)
+
+Portfolio (image, audio, text thumbnails)
+
+Responsive layout
+
+Dark mode toggle
+
+Project Collaboration Page 10 min
+
+Form to create a project: title, description, invite collaborators
+
+List of existing collaborations (static for now)
+
+Dark mode + responsive
+Technology use-:html,css,js;
+only frontend 
+
+
+
+
