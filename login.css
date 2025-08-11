@@ -116,3 +116,54 @@ main {
 .auth-container a:hover {
   text-decoration: underline;
 }
+
+/* 🌙 Dark Mode Styles */
+body.dark-mode {
+  background: #121212 !important;
+  color: white;
+}
+
+/* Dark Mode - Header */
+body.dark-mode header {
+  background: rgba(20, 20, 20, 0.7);
+}
+
+body.dark-mode header .logo {
+  color: white;
+}
+
+body.dark-mode #darkModeToggle {
+  color: white;
+}
+
+/* Dark Mode - Form Container */
+body.dark-mode .auth-container {
+  background: #1e1e1e;
+  color: white;
+}
+
+body.dark-mode .auth-container h2 {
+  color: white;
+}
+
+body.dark-mode .form-group input {
+  background: #2a2a2a;
+  color: white;
+  border: 1px solid #555;
+}
+
+body.dark-mode .form-group input:focus {
+  border-color: #00bfff;
+}
+
+body.dark-mode .form-group button {
+  background: #00bfff;
+}
+
+body.dark-mode .form-group button:hover {
+  background: #0099cc;
+}
+
+body.dark-mode .auth-container a {
+  color: #00bfff;
+}

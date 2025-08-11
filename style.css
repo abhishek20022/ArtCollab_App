@@ -210,3 +210,52 @@ footer p {
   line-height: 1.5;
 }
 
+/* 🌙 Dark Mode Styles */
+body.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+/* Navbar in Dark Mode */
+body.dark-mode header {
+  background-color: #0a0a0a;
+}
+
+/* Navigation Links */
+body.dark-mode nav a {
+  color: #ffffff;
+}
+
+body.dark-mode nav a:hover {
+  color: #00bfff;
+}
+
+/* Dark Mode Toggle Button */
+body.dark-mode #darkModeToggle {
+  color: #ffffff;
+}
+
+body.dark-mode .hero {
+  background: url('asset/ChatGPT\ Image\ Aug\ 11\,\ 2025\,\ 07_29_20\ AM.png') center/cover no-repeat;
+}
+
+
+
+/* About Section Dark Mode */
+body.dark-mode .about {
+  background-color: #1e1e1e;
+}
+
+body.dark-mode .about h2 {
+  color: #ffffff;
+}
+
+body.dark-mode .about p {
+  color: #cccccc;
+}
+
+/* Footer in Dark Mode */
+body.dark-mode footer {
+  background-color: #0a0a0a;
+  color: #ffffff;
+}
